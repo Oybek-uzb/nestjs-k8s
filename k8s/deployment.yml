@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nestjs-k8s
-        image: oybek/nestjs-k8s
+        image: oybekzdockerid/nestjs-k8s
         ports:
           - containerPort: 3000
 
